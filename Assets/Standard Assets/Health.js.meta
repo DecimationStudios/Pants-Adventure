@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 03501d1843adb2d4788831c2b3247653
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthyBarTex: {fileID: 2800000, guid: ab5be3616242f56459621f7ffc7dad7e, type: 3}
+  - unhealthyBarTex: {fileID: 2800000, guid: 44474f00ab4e6c84090dbeda9c7392c1, type: 3}
+  - dyingBarTex: {fileID: 2800000, guid: 894d3ffa15e12a844af4ca642eb216a7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
